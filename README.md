@@ -1,4 +1,4 @@
-React App [![CircleCI](https://circleci.com/gh/patrickRobotics/webapp-react.svg?style=svg)](https://circleci.com/gh/patrickRobotics/webapp-react)
+## React App [![CircleCI](https://circleci.com/gh/patrickRobotics/webapp-react.svg?style=svg)](https://circleci.com/gh/patrickRobotics/webapp-react)
 
 ## Available Scripts
 
